@@ -1,5 +1,4 @@
 import pool from "../config/db";
-import type { UpdateUserService } from "../types/user";
 
 export const getAllUsersService = async () => {
   const result = await pool.query("SELECT * FROM users");
