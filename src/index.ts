@@ -7,7 +7,7 @@ import errorHandling from "./middlewares/errorHandler";
 import { createUserTable } from "./data/createUserTable";
 
 const app = express();
-const port = process.env.PORT || 3001;
+const port = process.env.API_PORT || 3001;
 
 // Middleware
 app.use(express.json());
