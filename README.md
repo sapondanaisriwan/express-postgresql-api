@@ -46,7 +46,7 @@ Spin up the PostgreSQL service using Docker Compose:
 docker compose up -d
 ```
 
-#### 5. Register the Server
+### 5. Register the Server
 
 Navigate to `http://localhost:5050/browser/` and register the server as following.
 
