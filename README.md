@@ -1,6 +1,6 @@
-# Express + PostgreSQL API
+# 🔥 Using this project as practice
 
-A simple REST API using **Express** and **PostgreSQL**, containerized with Docker and powered by **Bun** for fast dependency management and runtime.
+A simple REST API using **Express** and **PostgreSQL**, containerized with **Docker** and powered by **Bun** for fast dependency management and runtime.
 
 ## 🚀 Requirements
 
