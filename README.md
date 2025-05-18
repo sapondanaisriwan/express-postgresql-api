@@ -57,3 +57,6 @@ Navigate to `http://localhost:5050/browser/` and register the server as followin
 ```bash
 bun run dev
 ```
+
+## What I leaned from this project
+รู้ basic วิธีการใช้ docker รวมถึงคำสั่งต่างๆ เช่น `docker compose down -v` เป็นการลบ container และ volumn ปัจจุบันออก volumn ให้คิดเหมือนว่าเป็น cache
